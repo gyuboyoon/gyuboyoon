@@ -10,7 +10,7 @@
 `Node.js` `Express` `Python` `Flask`
 
 **Frontend**
-`Next.js` `React` `JavaScript ES6+`
+`Next.js` `React` `TypeScript` `JavaScript ES6+`
 
 **Database**
 `Supabase` `MySQL` `MongoDB`
